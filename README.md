@@ -54,7 +54,7 @@ The workflow is designed using **n8n’s visual editor** and consists of the fol
 
  Workflow Screenshot:
 Here’s the visual structure of the agent workflow:
-![AI Agent Flow Diagram](screenshots/agent-flow.png)
+![AI Agent Flow Diagram](Screenshots/agent-flow.png)
 
 
 
